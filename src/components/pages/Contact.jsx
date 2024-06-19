@@ -1,6 +1,8 @@
 import React, { useRef } from "react";
 import styled from "styled-components";
 import { FaWhatsapp } from "react-icons/fa";
+import { CiMail } from "react-icons/ci";
+
 
 
 const Container = styled.div`
@@ -148,9 +150,9 @@ const Contact = () => {
           Sinta-se à vontade para entrar em contato comigo para qualquer dúvida ou oportunidade!
         </Desc>
         <ContactForm onSubmit={handleSubmit}>
-          <ContactTitle>Fale comigo <FaWhatsapp style={{ width: '40px', color: 'green' }} /></ContactTitle>
-          <ContactInputMessage placeholder="Mensagem" name="message" rows={4} ref={messageRef} required />
-          <ContactButton type="submit" value="Enviar" />
+          <ContactTitle>Fale comigo</ContactTitle>
+          <p className="p-contact"><FaWhatsapp style={{ width: '30px', height: "30px", color: 'green' }} /> (69) 9 9375-8880 </p>
+          <p className="p-contact"><CiMail style={{ width: '30px', height: "30px" }} />carlosberling@outlook.com</p>
         </ContactForm>
       </Wrapper>
     </Container>
