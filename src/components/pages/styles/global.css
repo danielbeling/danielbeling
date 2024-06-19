@@ -441,3 +441,11 @@
   align-items: center;
   gap: 10px;
 }
+
+.home-cv-button {
+    margin: 30px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+  }
+  

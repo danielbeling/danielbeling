@@ -42,6 +42,9 @@ const Hero = () => {
                 <a href={Bio.resume} target="_blank" className="home-resume-button" rel="noreferrer">
                   Contato
                 </a>
+                <a href="/danielbeling.pdf" target="_blank" className={"home-cv-button"} rel="noreferrer">
+                  CV
+                </a>
               </div>
 
               <div className="home-hero-right-container">
