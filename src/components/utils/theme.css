@@ -1,0 +1,75 @@
+#light, #dark {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+#dark {
+  background-color: #18181B;
+}
+
+#dark header {
+  background-color: #18181B;
+  border: 1px solid #cccccc28;
+  box-shadow: none;
+  transition: background-color 0.3s ease, border 0.3s ease, box-shadow 0.3s ease;
+}
+
+#dark .links {
+  color: #fff;
+  transition: color 0.3s ease;
+}
+
+#dark header nav ul li a {
+  color: #fff;
+  transition: color 0.3s ease;
+}
+
+#dark header nav ul li a:hover {
+  color: rgb(133, 76, 230);
+  transition: color 0.3s ease;
+}
+
+#dark .content-theme {
+  --color: #fff;
+  fill: var(--color);
+  transition: all 0.3s ease;
+}
+
+#dark .content-theme:hover {
+  --color: rgb(133, 76, 230);
+}
+
+#dark .one, #dark .two, #dark .three, #dark .menu-section.on .menu-toggle .three {
+  background-color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+#dark .home-title, #dark .home-text-loop, #dark .home-sub-title,
+#dark .skills-title, #dark .skills-desc, #dark .skills-skill-title,
+#dark .experience-title, #dark .experience-desc, #dark .experience-card-role,
+#dark .experience-card-company, #dark .experience-card-date, #dark .experience-card-description,
+#dark .projects-title, #dark .projects-date, #dark .projects-description,
+#dark .btn-projects, #dark .education-title, #dark .education-desc,
+#dark .name, #dark .degree, #dark .date, #dark .description,
+#dark .larGDX, #dark .gdpPaC, #dark .gjqCHM, #dark .evBcEj,
+#dark .bKdLYL, #dark .mtsch, #dark .dpWPeO {
+  color: #fff;
+  transition: color 0.3s ease;
+}
+
+#dark .skills-skill, #dark .skills-skill-item,
+#dark .vertical-timeline-element .vertical-timeline-element-content,
+#dark .projects-skill, #dark .jzYJsF, #dark .dAngcX {
+  background-color: #18181B;
+  border: 1px solid #cccccc28;
+  box-shadow: 0 10px 30px -14px rgba(71, 71, 71, 0.116);
+  color: #ffffffc2;
+  transition: background-color 0.3s ease, border 0.3s ease, box-shadow 0.3s ease;
+}
+#dark .btn-load-more {
+  color: #fff;
+  border: 1px solid #cccccc93;
+}
+#dark .experience-card-skill {
+  color: #b3b3b3;
+  transition: color 0.3s ease;
+}

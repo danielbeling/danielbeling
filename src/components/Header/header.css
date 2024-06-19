@@ -1,0 +1,238 @@
+
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+
+header{
+  
+  width: 100%;
+  background-color: #ffffff;
+  border-bottom: 1px solid #eff1f3;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  z-index: 9;
+}
+
+header .container {
+  display: flex; 
+  align-items: center;
+  justify-content: space-between;
+  height:60%;
+  max-width: 1300px;
+  margin: auto;
+  padding: 10px;
+}
+
+.header-span {
+  color: rgb(133, 76, 230);
+}
+.links {
+  color: #000;
+  text-decoration: none;
+  font-size: 20px;
+}
+header nav {
+  display: flex;
+}
+
+header nav ul {
+  display: flex;
+}
+
+header nav ul li {
+  list-style: none;
+}
+
+header nav ul li a {
+  text-decoration: none;
+  color: #000;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif ;
+  font-size: 16px;
+  padding: 0.8rem;
+  transition: all 0.3s;
+}
+
+header nav ul li a:hover {
+  color: rgb(133, 76, 230);
+}
+header nav ul li a{
+  position: relative;
+  animation-name: menu;
+  animation-duration: 1s;
+  transition: 100ms;
+}
+
+header nav ul li a {
+  position: relative;
+  top: 2px;
+  left: 2px;
+}
+
+
+@media (max-width: 630px){
+  html{
+    font-size: 70%;
+  }
+ .hero .container{
+   flex-direction: column;
+   text-align: center;
+ }
+
+ .form-group{
+   display: block;
+ }
+}
+
+@media (max-width: 1120px){
+  
+   .menu-section nav{
+    display: none;
+  }
+
+  .one,
+  .two,
+  .three{
+    background-color:#252527;
+    height: 5px;
+    width: 100%;
+    margin: 6px auto;
+    transition-duration: 0.3s;
+  }
+  .menu-toggle{
+    width: 35px;
+    height: 30px;
+    margin-right: 20px;
+  }
+
+  /*Fullscreen*/
+  .menu-section.on {
+    position: fixed; /* Alterado para fixed para cobrir a tela inteira */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(17px); /* Adiciona o efeito de desfoque */
+    z-index: 10; /* Define um z-index maior para que o menu fique acima do cabeçalho */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .menu-section.on nav{
+    display: block;
+  }
+
+  
+  .menu-section.on .menu-toggle{
+    position: absolute;
+    right: 25px;
+    top: 25px;
+  }
+
+  
+  .menu-section.on .menu-toggle .one{
+    transform: rotate(45deg) translate(7px, 7px);
+    background-color: #252527;
+  }
+
+  .menu-section.on .menu-toggle .two{
+   opacity: 0;
+
+  }
+
+  .menu-section.on .menu-toggle .three{
+    transform: rotate(-45deg) translate(8px, -9px);
+    background-color: #252527;
+  }
+
+  .menu-section.on nav ul{
+    text-align: center;
+    display: block;
+  }
+
+  .menu-section.on nav ul a{ 
+   transition-duration:  0.5s;
+   font-size: 2.0rem;
+    display: block;
+    color: #000000;
+    padding: 1.8rem;
+  }
+
+  .menu-section.on nav ul .hide{ 
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     padding: 0rem;
+     font-size: 1.6rem;
+   }
+
+}
+
+@media (max-width: 320px){
+  #form h3{
+    font-size: 2rem;
+  }
+
+}
+
+
+
+/*------ Settings ------*/
+.content-theme {
+  --color: #252527;
+  --size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  cursor: pointer;
+  font-size: var(--size);
+  user-select: none;
+  fill: var(--color);
+  margin: 10px;
+  margin-left: 25px;
+  transition: all 0.3s ease;
+}
+.content-theme:hover {
+  --color: rgb(133, 76, 230);
+}
+
+.content-theme .moon {
+  position: absolute;
+  animation: keyframes-fill .5s;
+}
+
+.content-theme .sun {
+  position: absolute;
+  display: none;
+  animation: keyframes-fill .5s;
+}
+
+/* ------ On check event ------ */
+.content-theme input:checked ~ .moon {
+  display: none;
+}
+
+.content-theme input:checked ~ .sun {
+  display: block;
+}
+
+/* ------ Hide the default checkbox ------ */
+.content-theme input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* ------ Animation ------ */
+@keyframes keyframes-fill {
+  0% {
+    transform: rotate(-360deg) scale(0);
+    opacity: 0;
+  }
+
+  75% {
+    transform: rotate(25deg);
+  }
+}

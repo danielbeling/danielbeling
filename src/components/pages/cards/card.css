@@ -1,0 +1,203 @@
+.experience-card-top {
+  width: 100%;
+  display: flex;
+  max-width: 100%;
+  gap: 12px;
+}
+.vertical-timeline-element .vertical-timeline-element-content {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  color: #fff;
+  box-shadow: 0 5px 20px  2px rgba(0, 0, 0, 0.116);
+}
+.experience-card-image {
+  height: 50px;
+  border-radius: 10px;
+  margin-top: 4px;
+}
+
+@media only screen and (max-width: 768px) {
+  .experience-card-image {
+    height: 40px;
+  }
+}
+
+.experience-card-body {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.experience-card-role {
+  font-size: 18px;
+  font-weight: 600;
+  color: #33333b;
+}
+
+@media only screen and (max-width: 768px) {
+  .experience-card-role {
+    font-size: 14px;
+  }
+}
+
+.experience-card-company {
+  font-size: 14px;
+  font-weight: 500;
+  color: #33333b;
+}
+
+@media only screen and (max-width: 768px) {
+  .experience-card-company {
+    font-size: 12px;
+  }
+}
+
+.experience-card-date {
+  font-size: 12px;
+  font-weight: 400;
+  color: #33333b;
+}
+
+@media only screen and (max-width: 768px) {
+  .experience-card-date {
+    font-size: 10px;
+  }
+}
+
+.experience-card-description {
+  width: 100%;
+  font-size: 15px;
+  font-weight: 400;
+  color: #33333b;
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  .experience-card-description {
+    font-size: 12px;
+  }
+}
+
+.experience-card-span {
+  display: -webkit-box;
+  max-width: 100%;
+}
+
+.experience-card-skills {
+  width: 100%;
+  display: flex;
+  gap: 12px;
+  margin-top: -10px;
+}
+
+.experience-card-skill {
+  font-size: 15px;
+  font-weight: 400;
+  color: #33333b;
+}
+
+@media only screen and (max-width: 768px) {
+  .experience-card-skill {
+    font-size: 12px;
+  }
+}
+
+.experience-card-item-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.vertical-timeline::before {
+  background: #ccc;
+}
+
+/*STILOS EDUCATION*/
+
+.top {
+  width: 100%;
+  display: flex;
+  max-width: 100%;
+  gap: 12px;
+}
+
+.image {
+  height: 50px;
+  border-radius: 10px;
+  margin-top: 4px;
+}
+
+@media only screen and (max-width: 768px) {
+  .image {
+    height: 40px;
+  }
+}
+
+.body {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.name {
+  font-size: 18px;
+  font-weight: 600;
+  color: #33333b;
+}
+
+@media only screen and (max-width: 768px) {
+  .name {
+    font-size: 14px;
+  }
+}
+
+.degree {
+  font-size: 14px;
+  font-weight: 500;
+  color: #33333b;
+}
+
+@media only screen and (max-width: 768px) {
+  .degree {
+    font-size: 12px;
+  }
+}
+
+.date {
+  font-size: 12px;
+  font-weight: 400;
+  color: #33333b;
+}
+
+@media only screen and (max-width: 768px) {
+  .date {
+    font-size: 10px;
+  }
+}
+
+.grade {
+  font-size: 14px;
+  font-weight: 500;
+  color: #33333b;
+}
+
+@media only screen and (max-width: 768px) {
+  .grade {
+    font-size: 12px;
+  }
+}
+
+.description {
+  width: 100%;
+  font-size: 15px;
+  font-weight: 400;
+  color: #33333b;
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  .description {
+    font-size: 12px;
+  }
+}
+
+.span {}
