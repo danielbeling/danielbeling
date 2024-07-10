@@ -18,7 +18,7 @@ Eu sou um desenvolvedor Web frontend apaixonado por criar experiências interati
 ## Contato
 - **Email:** danielbeling009@gmail.com
 - **LinkedIn:** [Daniel Beling no LinkedIn](https://www.linkedin.com/in/daniel-beling-293146236/)
-- **Portfólio:** [Daniel Beling Portfólio](https://danielbeling.vercel.app/)
+- **Portfólio:** [Daniel Beling Portfólio](https://danieldeveloper.vercel.app/)
 
 ## Como Contribuir
 Se você quiser contribuir para algum dos meus projetos, sinta-se à vontade para abrir uma issue ou enviar um pull request. Agradeço toda a ajuda e feedback!
