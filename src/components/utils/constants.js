@@ -13,6 +13,7 @@ import VSCODE from '../../img/vscode.png';
 import Ferramentas from '../../img/ferramentas.png';
 import CMV from '../../img/cmv.png';
 import Plasmo from '../../img/plasmo.png';
+import HTTPIE from '../../img/httpie.png';
 
 export const Bio = {
   name: "Daniel Beling",
@@ -108,6 +109,10 @@ export const skills = [
         name: "Netlify",
         image:
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+      },
+      {
+        name: "Httpie",
+        image: HTTPIE,
       },
     ],
   },
