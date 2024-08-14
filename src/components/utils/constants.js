@@ -14,6 +14,7 @@ import Ferramentas from '../../img/ferramentas.png';
 import CMV from '../../img/cmv.png';
 import Plasmo from '../../img/plasmo.png';
 import HTTPIE from '../../img/httpie.png';
+import MDM from '../../img/mdm.png';
 
 export const Bio = {
   name: "Daniel Beling",
@@ -275,8 +276,25 @@ export const projects = [
     github: "https://github.com",
     webapp: "https://nostalgiarust.online",
   },
-  {
+    {
     id: 3,
+    title: "Import MDM",
+    date: "Jul 2024",
+    description:
+      "Desenvolvi esse site Import MDM usando apenas React Js, JavaScript e Css3, projeto feito afins de teste de intrevista.",
+    image: MDM,
+    tags: [
+      "Eslint",
+      "React Js",
+      "Node Js",
+      "CSS3",
+      "JavaScript",
+    ],
+    github: "https://github.com/danielbeling/mdm",
+    webapp: "https://importsmdm.vercel.app/",
+  },
+  {
+    id: 4,
     title: "YonderGroup",
     date: "Jun 2024",
     description:
@@ -293,7 +311,7 @@ export const projects = [
     webapp: "https://yondergroup.vercel.app",
   },
   {
-    id: 4,
+    id: 5,
     title: "Landing Page Instasany",
     date: "Fev 2024",
     description:
@@ -310,7 +328,7 @@ export const projects = [
     webapp: "https://ladingpageinstasany.netlify.app",
   },
   {
-    id: 5,
+    id: 6,
     title: "Whaticket Saas",
     date: "Fev 2024",
     description:
