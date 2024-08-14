@@ -12,6 +12,7 @@ import Nginx from '../../img/nginx.png';
 import VSCODE from '../../img/vscode.png';
 import Ferramentas from '../../img/ferramentas.png';
 import CMV from '../../img/cmv.png';
+import Plasmo from '../../img/plasmo.png';
 
 export const Bio = {
   name: "Daniel Beling",
@@ -65,6 +66,10 @@ export const skills = [
       {
         name: "TailwindCss",
         image: Tail,
+      },
+      {
+        name: "Plasmo",
+        image: Plasmo,
       },
 
     ],
