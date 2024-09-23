@@ -143,9 +143,9 @@ export const experiences = [
     id: 0,
     img: "https://cdns.fidelizarmais.com/files/production/d03972ff-1372-45b7-aefe-3ce846beb52b/giralead/image/8684ea8f20b14fc1adf5af12fc39dde8.png",
     role: "Desenvolvedor Web Junior",
-    company: "Fidelizar Mais",
+    company: "Fidelizar Mais | Home Office",
     date: "Setembro 2024 - Presente Momento",
-    desc: "Na Fidelizar Mais, desenvolvi aplicações e sistemas de automação utilizando ferramentas como React.js, Tailwind CSS, TypeScript, JavaScript, HTML, C#. Apliquei minhas habilidades e ampliei meu conhecimento ao enfrentar uma variedade de desafios, trabalhando em equipe para resolver problemas e contribuir para soluções eficazes.",
+    desc: "Na Fidelizar Mais, desenvolvi aplicações utilizando ferramentas como React.js, Tailwind CSS, TypeScript, JavaScript, HTML, C#. Apliquei minhas habilidades e ampliei meu conhecimento ao enfrentar uma variedade de desafios, trabalhando em equipe para resolver problemas e contribuir para soluções eficazes.",
     skills: [
       "JavaScript",
       "TypeScript",
