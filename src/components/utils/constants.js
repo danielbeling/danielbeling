@@ -141,10 +141,27 @@ export const experiences = [
 
   {
     id: 0,
+    img: "https://cdns.fidelizarmais.com/files/production/d03972ff-1372-45b7-aefe-3ce846beb52b/giralead/image/8684ea8f20b14fc1adf5af12fc39dde8.png",
+    role: "Desenvolvedor Web Junior",
+    company: "Fidelizar Mais",
+    date: "Setembro 2024 - Presente Momento",
+    desc: "Na Fidelizar Mais, desenvolvi aplicações e sistemas de automação utilizando ferramentas como React.js, Tailwind CSS, TypeScript, JavaScript, HTML, C#. Apliquei minhas habilidades e ampliei meu conhecimento ao enfrentar uma variedade de desafios, trabalhando em equipe para resolver problemas e contribuir para soluções eficazes.",
+    skills: [
+      "JavaScript",
+      "TypeScript",
+      "C#",
+      "React Js",
+      "CSS3",
+      "HTML5",
+    ],
+    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
+  },
+  {
+    id: 1,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_jHeMV_NTLbAwwG1xB0y-xuFZhNGIJ0cR8jUXU62DQ&s",
     role: "Desenvolvedor Web Junior",
     company: "Prefeitura Municipal de Jaru",
-    date: "Janeiro 2024 - Presente momento",
+    date: "Janeiro 2024 - Agosto 2024",
     desc: "Na Prefeitura Municipal de Jaru, desenvolvi aplicações e sistemas de automação utilizando ferramentas como React.js, Tailwind CSS, TypeScript, Node.js, Docker e Nginx. Apliquei minhas habilidades e ampliei meu conhecimento ao enfrentar uma variedade de desafios, trabalhando em equipe para resolver problemas e contribuir para soluções eficazes.",
     skills: [
       "Docker",
@@ -160,11 +177,11 @@ export const experiences = [
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
   {
-    id: 1,
+    id: 2,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_jHeMV_NTLbAwwG1xB0y-xuFZhNGIJ0cR8jUXU62DQ&s",
     role: "Suporte Técnico Em TI",
     company: "Prefeitura Municipal de Jaru",
-    date: "Janeiro 2024 - Presente Momento",
+    date: "Janeiro 2024 - Agosto 2024",
     desc: "Durante meu tempo na Prefeitura Municipal de Jaru, aprimorei minhas habilidades em infraestrutura de redes, realizando a instalação de cabeamento para diversos setores do município. Isso envolveu tarefas como clipagem de cabos, montagem de racks e switches para distribuição aos computadores, sempre em colaboração com a equipe. Além disso, também desenvolvi habilidades em montagem e reparo de computadores, impressoras e formatação.",
     skills: [
       "Clipagem de cabos",
@@ -177,7 +194,7 @@ export const experiences = [
     doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
   },
   {
-    id: 2,
+    id: 3,
     img: "https://cdn.dribbble.com/users/2059160/screenshots/4413086/media/2dfeaf608392e326b8078431e1ac9f37.jpg?resize=400x300&vertical=center",
     role: "Frontend Engineer Freelancer",
     company: "Home Office",
@@ -192,7 +209,7 @@ export const experiences = [
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
   {
-    id: 3,
+    id: 4,
     img: "https://cdn.dribbble.com/users/2059160/screenshots/4413086/media/2dfeaf608392e326b8078431e1ac9f37.jpg?resize=400x300&vertical=center",
     role: "Técnico em informática",
     company: "Home Office",
