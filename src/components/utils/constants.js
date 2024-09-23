@@ -15,6 +15,7 @@ import CMV from '../../img/cmv.png';
 import Plasmo from '../../img/plasmo.png';
 import HTTPIE from '../../img/httpie.png';
 import MDM from '../../img/mdm.png';
+import C from '../../img/c#.png';
 
 export const Bio = {
   name: "Daniel Beling",
@@ -127,6 +128,10 @@ export const skills = [
       {
         name: "TypeScript",
         image: TypeScript,
+      },
+      {
+        name: "C#",
+        image: C,
       },
       {
         name: "MySQL",
