@@ -15,7 +15,7 @@ import CMV from '../../img/cmv.png';
 import Plasmo from '../../img/plasmo.png';
 import HTTPIE from '../../img/httpie.png';
 import MDM from '../../img/mdm.png';
-import C from '../../img/c#.png';
+import C from '../../img/cc.png';
 
 export const Bio = {
   name: "Daniel Beling",
