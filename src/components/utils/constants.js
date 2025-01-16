@@ -15,7 +15,8 @@ import CMV from '../../img/cmv.png';
 import Plasmo from '../../img/plasmo.png';
 import HTTPIE from '../../img/httpie.png';
 import MDM from '../../img/mdm.png';
-import C from '../../img/cc.png';
+import Webpack from '../../img/webpack.png';
+import skypack from '../../img/skypack.png';
 
 export const Bio = {
   name: "Daniel Beling",
@@ -116,6 +117,15 @@ export const skills = [
         name: "Httpie",
         image: HTTPIE,
       },
+      {
+        name: "Webpack",
+        image: Webpack,
+      },
+{
+        name: "Skypack",
+        image: skypack,
+      },
+      
     ],
   },
   {
@@ -128,10 +138,6 @@ export const skills = [
       {
         name: "TypeScript",
         image: TypeScript,
-      },
-      {
-        name: "C#",
-        image: C,
       },
       {
         name: "MySQL",
@@ -149,15 +155,15 @@ export const experiences = [
     img: "https://cdns.fidelizarmais.com/files/production/d03972ff-1372-45b7-aefe-3ce846beb52b/giralead/image/8684ea8f20b14fc1adf5af12fc39dde8.png",
     role: "Desenvolvedor Web Junior",
     company: "Fidelizar Mais | Home Office",
-    date: "Setembro 2024 - Presente Momento",
-    desc: "Na Fidelizar Mais, desenvolvi aplicações utilizando ferramentas como React.js, Tailwind CSS, TypeScript, JavaScript, HTML, C#. Apliquei minhas habilidades e ampliei meu conhecimento ao enfrentar uma variedade de desafios, trabalhando em equipe para resolver problemas e contribuir para soluções eficazes.",
+    date: "Setembro 2024 - Fevereiro 2025",
+    desc: "Na Fidelizar Mais, desenvolvi aplicações utilizando ferramentas como JavaScript, HTML CSS3, Skypack e ofuscando as aplicações usando Webpack, . Apliquei minhas habilidades e ampliei meu conhecimento ao enfrentar uma variedade de desafios, trabalhando em equipe para resolver problemas e contribuir para soluções eficazes.",
     skills: [
       "JavaScript",
-      "TypeScript",
-      "C#",
-      "React Js",
       "CSS3",
       "HTML5",
+      "Skypack",
+      "Webpack",
+      "Razor",
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
