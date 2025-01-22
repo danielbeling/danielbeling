@@ -11,12 +11,12 @@ Eu sou um desenvolvedor Web frontend apaixonado por criar experiências interati
 
 ## Tecnologias e Ferramentas
 - **Linguagens de Programação:** JavaScript
-- **Frameworks e Bibliotecas:** React JS, Bootstrap, TailwindCSS, HTML5, CSS3
+- **Frameworks e Bibliotecas:** React JS, Next Js Bootstrap, TailwindCSS, HTML5, CSS3
 - **Ferramentas de Desenvolvimento:** Git, GitHub, Vercel, Netlify, Docker, Nginx
 - **Backend e Outras Tecnologias:** Node JS, TypeScript, MySQL
 
 ## Contato
-- **Email:** danielbeling009@gmail.com
+- **Email:** carlosberling@outlook.com
 - **LinkedIn:** [Daniel Beling no LinkedIn](https://www.linkedin.com/in/daniel-beling-293146236/)
 - **Portfólio:** [Daniel Beling Portfólio](https://danieldeveloper.vercel.app/)
 
