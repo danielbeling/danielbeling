@@ -18,7 +18,7 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia, com experiência no de
 JavaScript, TypeScript, C#
 
 **Frontend:**  
-React.js, Next.js, TailwindCSS, Bootstrap, HTML5, CSS3
+React.js, Next.js, TailwindCSS, Bootstrap, HTML5, CSS3, Angular
 
 **Backend:**  
 Node.js, Express.js, ASP.NET Core, .NET (C#), SQLite, MySQL
