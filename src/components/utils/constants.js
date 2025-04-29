@@ -150,7 +150,7 @@ export const skills = [
         image: csharp
       },
       {
-        name: "dotnet",
+        name: ".NET",
         image: dotnet,
       }
     ],
