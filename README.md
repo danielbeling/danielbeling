@@ -1,26 +1,64 @@
-# Olá, eu sou Daniel Beling 👋
+<h1 align="center">Olá, eu sou o Daniel Beling 👋</h1>
 
-## Sobre Mim
-Eu sou um desenvolvedor Web frontend apaixonado por criar experiências interativas e eficientes para os usuários. Minhas habilidades incluem uma ampla gama de tecnologias modernas que utilizo para desenvolver projetos inovadores e funcionais.
+<p align="center">
+Desenvolvedor <strong>Fullstack</strong> com foco em soluções modernas, escaláveis e experiências de usuário eficientes.
+</p>
 
-## Projetos Principais
-### Ferramentas Online Brasil
-- **Descrição:** Um site que oferece várias ferramentas online para aprimorar a experiência dos usuários.
-- **Tecnologias:** React Js, JavaScript, CSS3.
-- **Repositório:** [Ferramentas Online Brasil](https://ferramentasonlinebrasil.vercel.app/)
+---
 
-## Tecnologias e Ferramentas
-- **Linguagens de Programação:** JavaScript
-- **Frameworks e Bibliotecas:** React JS, Next Js Bootstrap, TailwindCSS, HTML5, CSS3
-- **Ferramentas de Desenvolvimento:** Git, GitHub, Vercel, Netlify, Docker, Nginx
-- **Backend e Outras Tecnologias:** Node JS, TypeScript, MySQL
+## 🚀 Sobre Mim
 
-## Contato
-- **Email:** carlosberling@outlook.com
-- **LinkedIn:** [Daniel Beling no LinkedIn](https://www.linkedin.com/in/daniel-beling-293146236/)
-- **Portfólio:** [Daniel Beling Portfólio](https://danieldeveloper.vercel.app/)
+Sou um desenvolvedor fullstack apaixonado por tecnologia, com experiência no desenvolvimento de aplicações web completas — do frontend ao backend. Tenho familiaridade com arquiteturas modernas, APIs RESTful e interfaces responsivas.
 
-## Como Contribuir
-Se você quiser contribuir para algum dos meus projetos, sinta-se à vontade para abrir uma issue ou enviar um pull request. Agradeço toda a ajuda e feedback!
+---
 
-Obrigado por visitar meu perfil! 😊
+## 🛠️ Tecnologias & Ferramentas
+
+- **Linguagens:** JavaScript, TypeScript, C#
+- **Frontend:** React.js, Next.js, Bootstrap, TailwindCSS, HTML5, CSS3
+- **Backend:** Node.js, Express.js, .NET (C#), ASP.NET Core, SQLite, MySQL
+- **Autenticação:** JWT, ASP.NET Core Identity
+- **DevOps & Outros:** Git, GitHub, Docker, Nginx, Vercel, Netlify, Swagger
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbeling&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielbeling&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+</p>
+
+---
+
+## 🌟 Projetos Principais
+
+### 🔧 [Ferramentas Online Brasil](https://ferramentasonlinebrasil.tech/)
+- Um site que oferece ferramentas úteis e interativas para o dia a dia.
+- **Stack:** React.js, JavaScript, CSS3
+
+### 🐾 Tag Tá na Mão
+- Plataforma fullstack para localizar pets perdidos.
+- **Stack:** React.js, Node.js, Express.js, Mysql
+
+### 🔐 API de Autenticação
+- API desenvolvida para fins de estudo e prática com autenticação segura.
+- **Stack:** .NET 9, ASP.NET Core Identity, JWT, SQLite, Swagger
+
+---
+
+## 📬 Contato
+
+- ✉️ **Email:** carlosberling@outlook.com  
+- 💼 **LinkedIn:** [Daniel Beling](https://www.linkedin.com/in/daniel-beling-293146236/)  
+- 🌐 **Portfólio:** [danieldeveloper.vercel.app](https://danieldeveloper.vercel.app/)
+
+---
+
+## 🤝 Como Contribuir
+
+Se quiser colaborar com algum projeto meu, sinta-se à vontade para abrir uma issue ou enviar um pull request. Feedbacks e colaborações são sempre bem-vindos!
+
+---
+
+⭐ Obrigado por visitar meu perfil!
