@@ -19,6 +19,9 @@ import Webpack from '../../img/webpack.png';
 import skypack from '../../img/skypack.png';
 import csharp from '../../img/cc.png';
 import dotnet from '../../img/dotnet.png';
+import tagtanamao from '../../img/tagtanamao.png';
+import microapi from '../../img/microap.png';
+import auth from '../../img/auth.png';
 
 export const Bio = {
   name: "Daniel Beling",
@@ -297,8 +300,51 @@ export const projects = [
     github: "https://github.com/danielbeling/ferramentasonlinebrasil/",
     webapp: "https://ferramentasonlinebrasil.vercel.app/",
   },
-  {
+   {
     id: 2,
+    title: "Tag ta na mão",
+    date: "Abril 2025",
+    description:
+      "Tag tá na mão é um projeto freelancer fullstack desenvolvido com React.js, Node.js, Express e Banco de dados Mysql, criado para ajudar na localização de pets perdidos.",
+    image: tagtanamao,
+    tags: [
+      "React Js",
+      "CSS3",
+      "Node Js",
+      "JavaScript",
+      "VPS HOSTINGER",
+      "MYSQL",
+    ],
+    github: "https://github.com",
+    webapp: "https://meupet.tagtanamao.shop",
+  },
+   {
+    id: 3,
+    title: "Micro API",
+    date: "Abril 2025",
+    description:
+      "A Micro API foi desenvolvida com fins de treinamento, utilizando C# e .NET. O projeto simula uma arquitetura de microsserviços, focando em boas práticas de desenvolvimento como separação de responsabilidades.",
+    image: microapi,
+    tags: [
+      "C#",
+      ".NET",
+    ],
+    github: "https://github.com/danielbeling/MicroApi",
+    webapp: "https://github.com/danielbeling/MicroApi",
+  },
+    {
+    id: 4,
+    title: "API de autenticação",
+    date: "Abril 2025",
+    description:
+      "API de autenticação desenvolvida com .NET 9 e ASP.NET Core Identity, utilizando JWT para autenticação, SQLite com Entity Framework Core como banco de dados, e documentação interativa via Swagger (Swashbuckle)",
+    image: auth,
+    tags: ["C#", ".NET 9", "SQLite", "Swagger"],
+    github: "https://github.com/danielbeling/AuthJwtDemo",
+    webapp: "https://github.com/danielbeling/AuthJwtDemo",
+  },
+  {
+    id: 5,
     title: "Nostalgia Rust",
     date: "Nov 2024",
     description:
@@ -314,7 +360,7 @@ export const projects = [
     webapp: "https://nostalgiarust.online",
   },
     {
-    id: 3,
+    id: 6,
     title: "Import MDM",
     date: "Jul 2024",
     description:
@@ -331,7 +377,7 @@ export const projects = [
     webapp: "https://importsmdm.vercel.app/",
   },
   {
-    id: 4,
+    id: 7,
     title: "YonderGroup",
     date: "Jun 2024",
     description:
@@ -348,7 +394,7 @@ export const projects = [
     webapp: "https://yondergroup.vercel.app",
   },
   {
-    id: 5,
+    id: 8,
     title: "Landing Page Instasany",
     date: "Fev 2024",
     description:
@@ -365,7 +411,7 @@ export const projects = [
     webapp: "https://ladingpageinstasany.netlify.app",
   },
   {
-    id: 6,
+    id: 9,
     title: "Whaticket Saas",
     date: "Fev 2024",
     description:
@@ -378,7 +424,7 @@ export const projects = [
 
   },
   {
-    id: 7,
+    id: 10,
     title: "Calculadora",
     date: "Mar 2022",
     description:
@@ -390,7 +436,7 @@ export const projects = [
   },
 
   {
-    id: 8,
+    id: 11,
     title: "Registro Ponto",
     date: "Abril 2024",
     description:
@@ -402,7 +448,7 @@ export const projects = [
     webapp: "https://www.appsheet.com/",
   },
   {
-    id: 9,
+    id: 12,
     title: "TypeBot",
     date: "Fev 2022",
     description:
