@@ -17,6 +17,8 @@ import HTTPIE from '../../img/httpie.png';
 import MDM from '../../img/mdm.png';
 import Webpack from '../../img/webpack.png';
 import skypack from '../../img/skypack.png';
+import csharp from '../../img/cc.png';
+import dotnet from '../../img/dotnet.png';
 
 export const Bio = {
   name: "Daniel Beling",
@@ -143,7 +145,14 @@ export const skills = [
         name: "MySQL",
         image: MySql,
       },
-
+      {
+        name: "C#",
+        image: csharp
+      },
+      {
+        name: "dotnet",
+        image: dotnet,
+      }
     ],
   },
 ];
