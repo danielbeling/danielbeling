@@ -1,49 +1,58 @@
-<h1 align="center">Olá, eu sou o Daniel Beling 👋</h1>
+<h1 align="center">👋 Olá, eu sou o Daniel Beling</h1>
 
 <p align="center">
-Desenvolvedor <strong>Fullstack</strong> com foco em soluções modernas, escaláveis e experiências de usuário eficientes.
+Desenvolvedor <strong>Fullstack</strong> com foco em soluções modernas, escaláveis e centradas na experiência do usuário.
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor fullstack apaixonado por tecnologia, com experiência no desenvolvimento de aplicações web completas — do frontend ao backend. Tenho familiaridade com arquiteturas modernas, APIs RESTful e interfaces responsivas.
+Sou um desenvolvedor fullstack apaixonado por tecnologia, com experiência no desenvolvimento de aplicações web completas — do frontend ao backend. Trabalho com arquiteturas modernas, APIs RESTful e interfaces responsivas.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** JavaScript, TypeScript, C#
-- **Frontend:** React.js, Next.js, Bootstrap, TailwindCSS, HTML5, CSS3
-- **Backend:** Node.js, Express.js, .NET (C#), ASP.NET Core, SQLite, MySQL
-- **Autenticação:** JWT, ASP.NET Core Identity
-- **DevOps & Outros:** Git, GitHub, Docker, Nginx, Vercel, Netlify, Swagger
+**Linguagens:**  
+JavaScript, TypeScript, C#
+
+**Frontend:**  
+React.js, Next.js, TailwindCSS, Bootstrap, HTML5, CSS3
+
+**Backend:**  
+Node.js, Express.js, ASP.NET Core, .NET (C#), SQLite, MySQL
+
+**Autenticação:**  
+JWT, ASP.NET Identity
+
+**DevOps e Outros:**  
+Git, GitHub, Docker, Nginx, Swagger, Vercel, Netlify
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Projetos em Destaque
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbeling&layout=compact&theme=radical" alt="Linguagens mais usadas">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielbeling&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-</p>
-
----
-
-## 🌟 Projetos Principais
-
-### 🔧 [Ferramentas Online Brasil](https://ferramentasonlinebrasil.tech/)
-- Um site que oferece ferramentas úteis e interativas para o dia a dia.
-- **Stack:** React.js, JavaScript, CSS3
+### 🔧 [Ferramentas Online Brasil](ferramentasonlinebrasil.tech)
+Ferramentas interativas úteis para o dia a dia.  
+**Stack:** React.js, JavaScript, CSS3
 
 ### 🐾 Tag Tá na Mão
-- Plataforma fullstack para localizar pets perdidos.
-- **Stack:** React.js, Node.js, Express.js, Mysql
+Plataforma fullstack para localização de pets perdidos.  
+**Stack:** React.js, Node.js, Express.js, Mysql
 
 ### 🔐 API de Autenticação
-- API desenvolvida para fins de estudo e prática com autenticação segura.
-- **Stack:** .NET 9, ASP.NET Core Identity, JWT, SQLite, Swagger
+API de autenticação com segurança avançada.  
+**Stack:** ASP.NET Core, JWT, SQLite, Swagger
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbeling&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielbeling&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub"/>
+</div>
 
 ---
 
@@ -57,7 +66,7 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia, com experiência no de
 
 ## 🤝 Como Contribuir
 
-Se quiser colaborar com algum projeto meu, sinta-se à vontade para abrir uma issue ou enviar um pull request. Feedbacks e colaborações são sempre bem-vindos!
+Se quiser colaborar com algum projeto meu, fique à vontade para abrir uma *issue* ou enviar um *pull request*. Toda contribuição é muito bem-vinda!
 
 ---
 
