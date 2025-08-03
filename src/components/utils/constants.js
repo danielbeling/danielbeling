@@ -163,20 +163,22 @@ export const skills = [
 export const experiences = [
 
   {
-    id: 0,
-    img: "https://cdns.fidelizarmais.com/files/production/d03972ff-1372-45b7-aefe-3ce846beb52b/giralead/image/8684ea8f20b14fc1adf5af12fc39dde8.png",
-    role: "Desenvolvedor Web Junior",
-    company: "Fidelizar Mais | Home Office",
-    date: "Setembro 2024 - Fevereiro 2025",
-    desc: "Na Fidelizar Mais, desenvolvi aplicações utilizando ferramentas como JavaScript, HTML CSS3, Skypack e ofuscando as aplicações usando Webpack, . Apliquei minhas habilidades e ampliei meu conhecimento ao enfrentar uma variedade de desafios, trabalhando em equipe para resolver problemas e contribuir para soluções eficazes.",
-    skills: [
-      "JavaScript",
-      "CSS3",
-      "HTML5",
-      "Skypack",
-      "Webpack",
-      "Razor",
-    ],
+      "id": 0,
+  "img": "https://cdns.fidelizarmais.com/files/production/d03972ff-1372-45b7-aefe-3ce846beb52b/giralead/image/8684ea8f20b14fc1adf5af12fc39dde8.png",
+  "role": "Desenvolvedor Fullstack",
+  "company": "Fidelizar Mais | Home Office",
+  "date": "Setembro 2024 - Agosto 2025",
+  "desc": "Atuei como Desenvolvedor Fullstack na Fidelizar Mais, criando e mantendo aplicações utilizando .NET, C# e PostgreSQL. Desenvolvi uma matriz RFM personalizada e implementei integrações com APIs de diversas plataformas de e-commerce, como Yampi, Nuvemshop, Shopify, Vnda, JetNeo e WooCommerce, focando na captação e sincronização de pedidos. Trabalhei em equipe para entregar soluções robustas e eficientes, enfrentando desafios técnicos e propondo melhorias contínuas.",
+  "skills": [
+    ".NET",
+    "C#",
+    "PostgreSQL",
+    "API REST",
+    "JavaScript",
+    "Node Js",
+    "Integrações E-commerce",
+    "Matriz RFM"
+  ],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
   {
