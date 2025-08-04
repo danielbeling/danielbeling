@@ -254,7 +254,15 @@ export const experiences = [
 
 export const education = [
   {
-    id: 0,
+  "id": 0,
+  "img": "https://pbs.twimg.com/profile_images/1415325711896825858/2cczQq-X_400x400.png",
+  "school": "Udemy",
+  "date": "Concluído em 2024",
+  "desc": "Realizei um curso na Udemy sobre C# e .NET, abordando os fundamentos da linguagem e o desenvolvimento de APIs REST. O conteúdo incluiu práticas com Entity Framework, arquitetura de projetos e integração com bancos de dados, proporcionando uma base sólida para aplicações web robustas."
+}
+
+  {
+    id: 1,
     img: CMV,
     school: "Curso em VIdeo",
     date: "Fevereiro 2022",
@@ -262,7 +270,7 @@ export const education = [
     degree: "JavaScript | HTML5 | CSS3",
   },
   {
-    id: 1,
+    id: 2,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXxj__tdEHIvm-AGk6-JK1IfB6m1mOs-a9g4NP7H89Q&s",
     school: "SENAC",
     date: "Setembro 2019",
@@ -270,7 +278,7 @@ export const education = [
     degree: "Montagem e Manutenção de Pc",
   },
   {
-    id: 2,
+    id: 3,
     img: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Brasao-jaru-ro.png",
     school: "Olga Dellaia",
     date: "Dezembro 2019",
