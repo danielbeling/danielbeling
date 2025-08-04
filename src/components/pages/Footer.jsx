@@ -104,7 +104,7 @@ const Footer = () => {
             <InstagramIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Daniel Beling. Todos os direitos reservados.</Copyright>
+        <Copyright>&copy; 2025 Daniel Beling. Todos os direitos reservados.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
