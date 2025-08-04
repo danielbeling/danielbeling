@@ -300,7 +300,7 @@ export const projects = [
     image: Ferramentas,
     tags: ["React JS", "JavaScript", "CSS3"],
     github: "https://github.com/danielbeling/ferramentasonlinebrasil/",
-    webapp: "https://ferramentasonlinebrasil.vercel.app/",
+    webapp: "https://ferramentasonlinebrasil.tech/",
   },
    {
     id: 2,
@@ -318,7 +318,7 @@ export const projects = [
       "MYSQL",
     ],
     github: "https://github.com",
-    webapp: "https://meupet.tagtanamao.shop",
+    webapp: "https://tagtanamao.com.br/",
   },
    {
     id: 3,
