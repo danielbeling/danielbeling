@@ -258,7 +258,8 @@ export const education = [
   "img": "https://pbs.twimg.com/profile_images/1415325711896825858/2cczQq-X_400x400.png",
   "school": "Udemy",
   "date": "Concluído em 2025",
-  "desc": "Realizei um curso na Udemy sobre C# e .NET, abordando os fundamentos da linguagem e o desenvolvimento de APIs REST. O conteúdo incluiu práticas com Entity Framework, arquitetura de projetos e integração com bancos de dados, proporcionando uma base sólida para aplicações web robustas."
+  "desc": "Realizei um curso na Udemy sobre C# e .NET, abordando os fundamentos da linguagem e o desenvolvimento de APIs REST. O conteúdo incluiu práticas com Entity Framework, arquitetura de projetos e integração com bancos de dados, proporcionando uma base sólida para aplicações web robustas.",
+  "degree": "C# | .NET | API REST",
   },
   {
     id: 1,
