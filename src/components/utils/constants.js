@@ -22,6 +22,7 @@ import dotnet from '../../img/dotnet.png';
 import tagtanamao from '../../img/tagtanamao.png';
 import microapi from '../../img/microap.png';
 import auth from '../../img/auth.png';
+import National from '../../img/national.png';
 
 export const Bio = {
   name: "Daniel Beling",
@@ -163,7 +164,7 @@ export const skills = [
 export const experiences = [
 
   {
-      "id": 0,
+  "id": 0,
   "img": "https://cdns.fidelizarmais.com/files/production/d03972ff-1372-45b7-aefe-3ce846beb52b/giralead/image/8684ea8f20b14fc1adf5af12fc39dde8.png",
   "role": "Desenvolvedor Fullstack",
   "company": "Fidelizar Mais | Home Office",
@@ -295,7 +296,7 @@ export const projects = [
     description:
       "Meu portfólio foi criado utilizando React.js, CSS3 e JavaScript, com o intuito de aprimorar minhas habilidades e fornecer um site para compartilhar informações sobre mim.",
     image: Portifolio,
-    tags: ["React Js", "CSS3", "Node Js", "JavaScript",],
+    tags: ["React Js", "CSS3", "JavaScript"],
     github: "https://github.com/danielbeling",
     webapp: "https://danielbeling.vercel.app",
   },
@@ -328,8 +329,19 @@ export const projects = [
     github: "https://github.com",
     webapp: "https://tagtanamao.com.br/",
   },
+  {
+  id: 3,
+  title: "National Pro Painting",
+  date: "Julho 2024",
+  description:
+    "Site institucional desenvolvido para a empresa National Pro Painting, focado em apresentar serviços profissionais de pintura residencial e comercial nos EUA. O projeto foi construído com React.js, integrando responsividade, performance e design limpo.",
+  image: National, 
+  tags: ["React Js", "CSS3", "JavaScript", "Vite"],
+  github: "https://github.com/danielbeling/nationalpropainting",
+  webapp: "https://nationalpropainting.vercel.app/",
+  },
    {
-    id: 3,
+    id: 4,
     title: "Micro API",
     date: "Abril 2025",
     description:
@@ -343,7 +355,7 @@ export const projects = [
     webapp: "https://github.com/danielbeling/MicroApi",
   },
     {
-    id: 4,
+    id: 5,
     title: "API de autenticação",
     date: "Abril 2025",
     description:
@@ -354,7 +366,7 @@ export const projects = [
     webapp: "https://github.com/danielbeling/AuthJwtDemo",
   },
   {
-    id: 5,
+    id: 6,
     title: "Nostalgia Rust",
     date: "Nov 2024",
     description:
@@ -370,7 +382,7 @@ export const projects = [
     webapp: "https://nostalgiarust.online",
   },
     {
-    id: 6,
+    id: 7,
     title: "Import MDM",
     date: "Jul 2024",
     description:
@@ -387,7 +399,7 @@ export const projects = [
     webapp: "https://importsmdm.vercel.app/",
   },
   {
-    id: 7,
+    id: 8,
     title: "YonderGroup",
     date: "Jun 2024",
     description:
@@ -404,7 +416,7 @@ export const projects = [
     webapp: "https://yondergroup.vercel.app",
   },
   {
-    id: 8,
+    id: 9,
     title: "Landing Page Instasany",
     date: "Fev 2024",
     description:
@@ -421,7 +433,7 @@ export const projects = [
     webapp: "https://ladingpageinstasany.netlify.app",
   },
   {
-    id: 9,
+    id: 10,
     title: "Whaticket Saas",
     date: "Fev 2024",
     description:
@@ -434,7 +446,7 @@ export const projects = [
 
   },
   {
-    id: 10,
+    id: 11,
     title: "Calculadora",
     date: "Mar 2022",
     description:
@@ -446,7 +458,7 @@ export const projects = [
   },
 
   {
-    id: 11,
+    id: 12,
     title: "Registro Ponto",
     date: "Abril 2024",
     description:
@@ -458,7 +470,7 @@ export const projects = [
     webapp: "https://www.appsheet.com/",
   },
   {
-    id: 12,
+    id: 13,
     title: "TypeBot",
     date: "Fev 2022",
     description:
