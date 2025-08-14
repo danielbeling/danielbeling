@@ -23,6 +23,7 @@ import tagtanamao from '../../img/tagtanamao.png';
 import microapi from '../../img/microap.png';
 import auth from '../../img/auth.png';
 import National from '../../img/national.png';
+import Advogado from '../../img/advogado.png';
 
 export const Bio = {
   name: "Daniel Beling",
@@ -340,8 +341,22 @@ export const projects = [
   github: "https://github.com/danielbeling/nationalpropainting",
   webapp: "https://nationalpropainting.vercel.app/",
   },
-   {
+    {
     id: 4,
+    title: "Lading Page Advogado",
+    date: "Agosto 2025",
+    description:
+      "Landing Page para advogado desenvolvida utilizando React.js, JavaScript e React Icons, com foco em design moderno e responsivo.",
+    image: Advogado,
+    tags: [
+      "React Js",
+      "JavaScript",
+    ],
+    github: "https://github.com/danielbeling/website-advogado",
+    webapp: "https://gilsonmarquesgomes.com.br/",
+  },
+   {
+    id: 5,
     title: "Micro API",
     date: "Abril 2025",
     description:
@@ -355,7 +370,7 @@ export const projects = [
     webapp: "https://github.com/danielbeling/MicroApi",
   },
     {
-    id: 5,
+    id: 6,
     title: "API de autenticação",
     date: "Abril 2025",
     description:
@@ -366,7 +381,7 @@ export const projects = [
     webapp: "https://github.com/danielbeling/AuthJwtDemo",
   },
   {
-    id: 6,
+    id: 7,
     title: "Nostalgia Rust",
     date: "Nov 2024",
     description:
@@ -382,7 +397,7 @@ export const projects = [
     webapp: "https://nostalgiarust.online",
   },
     {
-    id: 7,
+    id: 8,
     title: "Import MDM",
     date: "Jul 2024",
     description:
@@ -399,7 +414,7 @@ export const projects = [
     webapp: "https://importsmdm.vercel.app/",
   },
   {
-    id: 8,
+    id: 9,
     title: "YonderGroup",
     date: "Jun 2024",
     description:
@@ -416,7 +431,7 @@ export const projects = [
     webapp: "https://yondergroup.vercel.app",
   },
   {
-    id: 9,
+    id: 10,
     title: "Landing Page Instasany",
     date: "Fev 2024",
     description:
@@ -433,7 +448,7 @@ export const projects = [
     webapp: "https://ladingpageinstasany.netlify.app",
   },
   {
-    id: 10,
+    id: 11,
     title: "Whaticket Saas",
     date: "Fev 2024",
     description:
@@ -446,7 +461,7 @@ export const projects = [
 
   },
   {
-    id: 11,
+    id: 12,
     title: "Calculadora",
     date: "Mar 2022",
     description:
@@ -458,7 +473,7 @@ export const projects = [
   },
 
   {
-    id: 12,
+    id: 13,
     title: "Registro Ponto",
     date: "Abril 2024",
     description:
@@ -470,7 +485,7 @@ export const projects = [
     webapp: "https://www.appsheet.com/",
   },
   {
-    id: 13,
+    id: 14,
     title: "TypeBot",
     date: "Fev 2022",
     description:
