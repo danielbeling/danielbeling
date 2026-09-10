@@ -250,46 +250,6 @@ Entre as soluções desenvolvidas:
 
 ---
 
-### 🔗 Linkten
-
-Plataforma para criação de páginas personalizadas para centralização de links, inspirada em soluções como Linktree.
-
-**Principais recursos:**
-
-* 🔐 Autenticação
-* 👤 Perfil personalizado
-* 🔗 Gerenciamento de links
-* 🎨 Personalização visual
-* 💳 Sistema de planos
-* 🌐 Página pública personalizada
-
-**Stack:**
-
-`React.js` `JavaScript` `Firebase` `Firebase Authentication` `CSS3`
-
----
-
-### 🍔 VisualizaAi
-
-Aplicação para digitalização de cardápios e gerenciamento de pedidos para estabelecimentos.
-
-**Principais recursos:**
-
-* 🏪 Cadastro de estabelecimentos
-* 🍔 Cadastro de produtos
-* 📱 Cardápio digital
-* 🛒 Gerenciamento de pedidos
-* 📊 Dashboard
-* 💰 Informações financeiras
-* 📦 Acompanhamento de pedidos
-* 📲 PWA
-
-**Stack:**
-
-`React` `Vite` `JavaScript` `Firebase` `Cloudinary` `PWA`
-
----
-
 ## 🔄 CI/CD
 
 Experiência com automação de processos de desenvolvimento e implantação utilizando **CI/CD**.
