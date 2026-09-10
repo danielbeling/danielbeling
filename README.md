@@ -1,73 +1,389 @@
 <h1 align="center">👋 Olá, eu sou o Daniel Beling</h1>
 
 <p align="center">
-Desenvolvedor <strong>Fullstack</strong> com foco em soluções modernas, escaláveis e centradas na experiência do usuário.
+  <strong>Desenvolvedor Fullstack</strong> com foco em Frontend, Backend, Mobile e DevOps
+</p>
+
+<p align="center">
+  Desenvolvendo soluções modernas, escaláveis e voltadas para resolver problemas reais.
+</p>
+
+<p align="center">
+  <a href="https://danieldeveloper.vercel.app">🌐 Portfólio</a> •
+  <a href="https://www.linkedin.com/in/daniel-beling-293146236/">💼 LinkedIn</a> •
+  <a href="https://github.com/danielbeling">🐙 GitHub</a>
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor fullstack apaixonado por tecnologia, com experiência no desenvolvimento de aplicações web completas — do frontend ao backend. Trabalho com arquiteturas modernas, APIs RESTful e interfaces responsivas.
+Sou **Desenvolvedor Fullstack**, com forte experiência em **Frontend** e atuação em **Backend, Mobile, Desktop e DevOps**.
+
+Trabalho no desenvolvimento de aplicações completas, desde a construção de interfaces e experiências responsivas até APIs, bancos de dados, autenticação, infraestrutura, CI/CD e deploy em produção.
+
+Tenho experiência com projetos de diferentes escalas, incluindo **sistemas corporativos, aplicações mobile, sistemas de gestão e soluções digitais para o setor público**.
+
+Atualmente, meus principais focos são:
+
+* ⚛️ React.js, Next.js e TypeScript
+* 🔧 Node.js e .NET / C#
+* 📱 React Native + Expo
+* 🖥️ Electron.js
+* 🗄️ MySQL, MongoDB, Firebase e Supabase
+* 🔄 CI/CD e Jenkins
+* 🐳 Docker
+* 🐧 Linux, VPS e Nginx
+* 🌐 APIs REST e integrações entre sistemas
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-**Linguagens:**  
-JavaScript, TypeScript, C#
+### 💻 Linguagens
 
-**Frontend:**  
-React.js, Next.js, TailwindCSS, Bootstrap, HTML5, CSS3, Angular
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,html,css" />
+</p>
 
-**Backend:**  
-Node.js, Express.js, ASP.NET Core, .NET (C#), SQLite, MySQL
+* JavaScript
+* TypeScript
+* C#
+* HTML5
+* CSS3
 
-**Autenticação:**  
-JWT, ASP.NET Identity
+---
 
-**DevOps e Outros:**  
-Git, GitHub, Docker, Nginx, Swagger, Vercel, Netlify
+### ⚛️ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,tailwind,bootstrap" />
+</p>
+
+* React.js
+* Next.js
+* React Vite
+* Angular
+* TypeScript
+* TailwindCSS
+* Bootstrap
+* React Router
+* Responsive Design
+* PWA
+* Componentização
+* Consumo e integração com APIs REST
+
+---
+
+### 📱 Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,android" />
+</p>
+
+* React Native
+* Expo
+* Android
+* APIs REST
+* Autenticação
+* Integração com serviços externos
+* Build e distribuição de aplicações mobile
+
+---
+
+### 🖥️ Desktop
+
+* Electron.js
+* Electron Builder
+* Aplicações Desktop
+* Integração com APIs
+* Serviços locais
+* Impressão térmica
+* Integração com periféricos
+* Empacotamento e distribuição de aplicações
+
+---
+
+### 🔧 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+* Node.js
+* Express.js
+* ASP.NET Core
+* .NET / C#
+* APIs RESTful
+* JWT
+* ASP.NET Identity
+* Swagger / OpenAPI
+* Webhooks
+* Integração entre sistemas
+
+---
+
+### 🗄️ Bancos de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase" />
+</p>
+
+* MySQL
+* MongoDB
+* SQLite
+* Firebase
+* Supabase
+* Firebase Authentication
+* Firebase Storage
+
+---
+
+### 🔄 DevOps & CI/CD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,nginx,linux,git,github" />
+</p>
+
+* Git
+* GitHub
+* Jenkins
+* CI/CD
+* Docker
+* Linux
+* Nginx
+* VPS
+* PM2
+* Pipelines de build e deploy
+* Automação de processos
+* Ambientes de produção
 
 ---
 
 ## 🌟 Projetos em Destaque
 
-### 🔧 [Ferramentas Online Brasil](ferramentasonlinebrasil.tech)
-Ferramentas interativas úteis para o dia a dia.  
-**Stack:** React.js, JavaScript, CSS3
+### 🏛️ Jaru IPTU Digital
 
-### 🐾 Tag Tá na Mão
-Plataforma fullstack para localização de pets perdidos.  
-**Stack:** React.js, Node.js, Express.js, Mysql
+Aplicativo mobile desenvolvido para facilitar o acesso do cidadão aos serviços tributários do município de **Jaru - RO**.
 
-### 🔐 API de Autenticação
-API de autenticação com segurança avançada.  
-**Stack:** ASP.NET Core, JWT, SQLite, Swagger
+O aplicativo permite consultar informações e emitir documentos diretamente pelo celular, reduzindo a necessidade de atendimento presencial.
+
+**Principais funcionalidades:**
+
+* 📄 Emissão de guias
+* 💰 Consulta de taxas e débitos
+* 🧾 Emissão de certidões
+* 📋 Consulta de informações tributárias
+* 📱 Interface otimizada para dispositivos móveis
+* 🔗 Integração com APIs e serviços municipais
+
+**Stack:**
+
+`React Native` `Expo` `TypeScript` `REST API`
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📦 ERP de Estoque
+
+Sistema de gestão desenvolvido para controle e gerenciamento de estoque.
+
+O sistema permite centralizar informações de produtos e movimentações, oferecendo uma interface para facilitar o acompanhamento e a gestão dos recursos.
+
+**Principais recursos:**
+
+* 📦 Cadastro e gerenciamento de produtos
+* 📊 Controle de estoque
+* 🔄 Movimentações
+* 🔎 Consultas e filtros
+* 📈 Informações gerenciais
+* 🔐 Controle de acesso
+
+**Stack:**
+
+`React` `Vite` `TypeScript` `REST API`
+
+---
+
+### 📰 Portal de Notícias
+
+Portal de notícias desenvolvido com foco em performance, responsividade e facilidade de gerenciamento de conteúdo.
+
+O projeto utiliza uma arquitetura moderna baseada em React e TypeScript.
+
+**Principais recursos:**
+
+* 📰 Publicação de notícias
+* 🖼️ Gerenciamento de imagens
+* 🔎 Busca e filtros
+* 📱 Layout responsivo
+* ⚡ Interface otimizada
+* 🔗 Integração com API
+
+**Stack:**
+
+`React` `Vite` `TypeScript` `REST API`
+
+---
+
+### 🏛️ Soluções Digitais — Prefeitura de Jaru
+
+Atuação no desenvolvimento de diferentes sistemas e soluções digitais voltadas para a **Prefeitura Municipal de Jaru - RO**.
+
+Projetos envolvendo aplicações **Web, Mobile e Desktop**, integração com APIs municipais, bancos de dados e infraestrutura.
+
+Entre as soluções desenvolvidas:
+
+* 📱 Aplicativos mobile
+* 💰 Sistemas tributários
+* 🧾 Emissão de guias e certidões
+* 📦 Sistemas de estoque
+* 🏥 Sistemas para gestão
+* 📝 Sistemas de pré-matrícula
+* 💳 Sistemas relacionados a benefícios sociais
+* 🖥️ Aplicações desktop
+* 🔗 Integrações com APIs municipais
+* ⚙️ Sistemas administrativos
+
+**Tecnologias utilizadas conforme o projeto:**
+
+`React` `React Native` `Expo` `TypeScript` `Node.js` `.NET` `C#` `MySQL` `Firebase` `Supabase` `Docker` `Jenkins` `Nginx` `Linux`
+
+---
+
+### 🔗 Linkten
+
+Plataforma para criação de páginas personalizadas para centralização de links, inspirada em soluções como Linktree.
+
+**Principais recursos:**
+
+* 🔐 Autenticação
+* 👤 Perfil personalizado
+* 🔗 Gerenciamento de links
+* 🎨 Personalização visual
+* 💳 Sistema de planos
+* 🌐 Página pública personalizada
+
+**Stack:**
+
+`React.js` `JavaScript` `Firebase` `Firebase Authentication` `CSS3`
+
+---
+
+### 🍔 VisualizaAi
+
+Aplicação para digitalização de cardápios e gerenciamento de pedidos para estabelecimentos.
+
+**Principais recursos:**
+
+* 🏪 Cadastro de estabelecimentos
+* 🍔 Cadastro de produtos
+* 📱 Cardápio digital
+* 🛒 Gerenciamento de pedidos
+* 📊 Dashboard
+* 💰 Informações financeiras
+* 📦 Acompanhamento de pedidos
+* 📲 PWA
+
+**Stack:**
+
+`React` `Vite` `JavaScript` `Firebase` `Cloudinary` `PWA`
+
+---
+
+## 🔄 CI/CD
+
+Experiência com automação de processos de desenvolvimento e implantação utilizando **CI/CD**.
+
+Atuação com:
+
+* Jenkins
+* GitHub
+* Pipelines
+* Build automatizado
+* Deploy automatizado
+* Docker
+* Linux
+* Nginx
+* VPS
+* PM2
+* Gerenciamento de aplicações em produção
+
+---
+
+## 🏗️ Arquitetura & Boas Práticas
+
+Experiência com:
+
+* Arquitetura Frontend / Backend
+* APIs RESTful
+* Componentização
+* Reutilização de código
+* Autenticação e autorização
+* JWT
+* Variáveis de ambiente
+* Integração entre sistemas
+* Controle de versão
+* Containerização
+* CI/CD
+* Deploy em produção
+* Desenvolvimento responsivo
+* Integração com serviços externos
+
+---
+
+## 📊 GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbeling&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielbeling&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbeling&show_icons=true&theme=tokyonight&locale=pt-br"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbeling&layout=compact&theme=tokyonight&locale=pt-br"/>
+
 </div>
+
+---
+
+## 📈 Atualmente
+
+Atualmente estou trabalhando e evoluindo principalmente em:
+
+* ⚛️ React.js / Next.js
+* 🟦 TypeScript
+* 🔧 Node.js / .NET
+* 📱 React Native + Expo
+* 🗄️ Supabase
+* 🔥 Firebase
+* 🐳 Docker
+* 🔄 CI/CD
+* ⚙️ Jenkins
+* 🐧 Linux
+* 🌐 Nginx
+* ☁️ Cloud & Deploy
+* 🏗️ Arquitetura de sistemas
+
+---
+
+## 🎯 Objetivo
+
+Continuar evoluindo como **Desenvolvedor Fullstack**, aprofundando meus conhecimentos em arquitetura de software, desenvolvimento mobile, cloud, DevOps e sistemas escaláveis.
+
+Busco transformar necessidades reais em **soluções digitais eficientes, modernas e fáceis de utilizar**.
 
 ---
 
 ## 📬 Contato
 
-- ✉️ **Email:** carlosberling@outlook.com  
-- 💼 **LinkedIn:** [Daniel Beling](https://www.linkedin.com/in/daniel-beling-293146236/)  
-- 🌐 **Portfólio:** [danieldeveloper.vercel.app](https://danieldeveloper.vercel.app/)
+* 📧 **Email:** [carlosberling@outlook.com](mailto:carlosberling@outlook.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/daniel-beling-293146236/
+* 🌐 **Portfólio:** https://danieldeveloper.vercel.app/
+* 🐙 **GitHub:** https://github.com/danielbeling
 
 ---
 
-## 🤝 Como Contribuir
+<div align="center">
 
-Se quiser colaborar com algum projeto meu, fique à vontade para abrir uma *issue* ou enviar um *pull request*. Toda contribuição é muito bem-vinda!
+### ⭐ Obrigado por visitar meu perfil!
 
----
+**Code • Build • Deploy • Improve 🚀**
 
-⭐ Obrigado por visitar meu perfil!
+</div>
